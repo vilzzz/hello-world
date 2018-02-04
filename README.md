@@ -1,2 +1,2 @@
 # hello-world
-Repository for learning and tests
+# Hello, I'm Dmitriy. Let's check if it's possible to learn me smth.
